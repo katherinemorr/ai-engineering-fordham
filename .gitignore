@@ -1,0 +1,42 @@
+# Environment variables (API keys)
+.env
+.env.local
+.env.*.local
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+temp/
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# uv lock file (optional - uncomment if you want to track it)
+# uv.lock
+lectures/
