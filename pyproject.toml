@@ -13,4 +13,5 @@ dependencies = [
     "numpy>=2.4.1",
     "pandas>=3.0.0",
     "pystemmer>=3.0.0",
+    "seaborn>=0.13.2",
 ]
