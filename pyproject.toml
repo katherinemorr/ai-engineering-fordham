@@ -8,6 +8,7 @@ dependencies = [
     "google>=3.0.0",
     "google-genai>=1.61.0",
     "ipykernel>=7.1.0",
+    "lancedb>=0.29.2",
     "litellm>=1.81.6",
     "matplotlib>=3.10.8",
     "numpy>=2.4.1",
